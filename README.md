@@ -49,10 +49,3 @@ O código estrutura o treinamento e avaliação conceitual dos seguintes classif
 * Avaliação de Acurácia e Matriz de Confusão.
 * Implementação de Validação Cruzada (k-fold com 10 *splits*) para garantir a generalização do modelo e evitar *overfitting*.
 
-## Como executar este projeto
-
-1. Clone este repositório.
-2. Ative seu ambiente virtual Python (`.venv`).
-3. Instale as dependências executando:
-   `pip install pandas numpy scikit-learn plotly yellowbrick`
-4. Execute os notebooks sequencialmente pelo JupyterLab.
